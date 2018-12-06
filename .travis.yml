@@ -4,4 +4,9 @@ python:
   - "3.5"
 # command to run tests
 script:
-  - python TestModule1.py
+  - python 533_Lab3_test_addat.py
+  - python 533_Lab3_test_del.py
+  - python 533_Lab3_test_dob.py
+  - python 533_Lab3_test_qry.py
+  
+  
